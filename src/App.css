@@ -1,0 +1,15 @@
+#wrap {
+  background-color:#d9d9d9;
+  font-size:1rem;
+  margin:0 auto;
+  text-align:center;
+}
+#wrap img {
+  width:500px;
+  height:100%;
+}
+#wrap p {
+  font-size:0.825rem;
+  line-height:20px;
+  
+}
